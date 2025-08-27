@@ -26,9 +26,18 @@
     object-fit: cover;
 }
 .pricing{
-   transition: transform 0.2s;
+   transition: transform 0.03s;
 }
 .pricing:hover{
 
     transform: scale(1.03);
 }
+.Familia{
+    height:230px;
+    border:none;
+    border-left: 2px solid blue;
+    
+}
+
+
+
