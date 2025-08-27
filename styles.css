@@ -25,3 +25,10 @@
     height: 300px;
     object-fit: cover;
 }
+.pricing{
+   transition: transform 0.2s;
+}
+.pricing:hover{
+
+    transform: scale(1.03);
+}
